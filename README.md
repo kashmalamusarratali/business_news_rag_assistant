@@ -142,11 +142,12 @@ Policy & economic monitoring
 
 LLM portfolio project
 
-👩‍💻 Author
-Kashmala Musarrat Ali
-LLM & Agentic AI Engineer
-Specialized in RAG systems, Generative AI, Data Engineering & Analytics
+# Author
 
 Kashmala Musarrat Ali
+
 LLM & Agentic AI Engineer
+
 Specialized in RAG systems, Generative AI, Data Engineering & Analytics
+
+
