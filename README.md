@@ -140,7 +140,7 @@ Market trend analysis
 
 Policy & economic monitoring
 
-LLM portfolio project
+
 
 # Author
 
